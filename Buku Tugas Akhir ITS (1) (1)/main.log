@@ -1,0 +1,1526 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.5)  6 JUN 2024 07:28
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Aryaduta Putra Perka/Downloads/Buku Tugas Akhir ITS (1) (1)/main.tex"
+(c:/Users/Aryaduta Putra Perka/Downloads/Buku Tugas Akhir ITS (1) (1)/main.tex
+LaTeX2e <2024-06-01>
+L3 programming layer <2024-05-08>
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@chapter=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/geometry\geometry.cfg)) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count272
+) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count273
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen150
+\Hy@linkcounter=\count274
+\Hy@pagecounter=\count275
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count276
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4040.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4040.
+
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count277
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen151
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count278
+\Field@Width=\dimen152
+\Fld@charsize=\dimen153
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-05-23 v7.01i Hyperref driver for pdfTeX
+ (C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip51
+) (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+) (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/05/26 v1.0h Color table columns (DPC)
+ (C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen154
+\ar@mcellbox=\box52
+\extrarowheight=\dimen155
+\NC@list=\toks21
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box53
+)
+\everycr=\toks22
+\minrowclearance=\skip54
+\rownum=\count284
+) (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count285
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count286
+\c@listtotal=\count287
+\c@listcount=\count288
+\c@liststart=\count289
+\c@liststop=\count290
+\c@citecount=\count291
+\c@citetotal=\count292
+\c@multicitecount=\count293
+\c@multicitetotal=\count294
+\c@instcount=\count295
+\c@maxnames=\count296
+\c@minnames=\count297
+\c@maxitems=\count298
+\c@minitems=\count299
+\c@citecounter=\count300
+\c@maxcitecounter=\count301
+\c@savedcitecounter=\count302
+\c@uniquelist=\count303
+\c@uniquename=\count304
+\c@refsection=\count305
+\c@refsegment=\count306
+\c@maxextratitle=\count307
+\c@maxextratitleyear=\count308
+\c@maxextraname=\count309
+\c@maxextradate=\count310
+\c@maxextraalpha=\count311
+\c@abbrvpenalty=\count312
+\c@highnamepenalty=\count313
+\c@lownamepenalty=\count314
+\c@maxparens=\count315
+\c@parenlevel=\count316
+\blx@tempcnta=\count317
+\blx@tempcntb=\count318
+\blx@tempcntc=\count319
+\c@blx@maxsection=\count320
+\blx@maxsegment@0=\count321
+\blx@notetype=\count322
+\blx@parenlevel@text=\count323
+\blx@parenlevel@foot=\count324
+\blx@sectionciteorder@0=\count325
+\blx@sectionciteorderinternal@0=\count326
+\blx@entrysetcounter=\count327
+\blx@biblioinstance=\count328
+\labelnumberwidth=\skip55
+\labelalphawidth=\skip56
+\biblabelsep=\skip57
+\bibitemsep=\skip58
+\bibnamesep=\skip59
+\bibinitsep=\skip60
+\bibparsep=\skip61
+\bibhang=\skip62
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count329
+\c@maxcomprange=\count330
+\c@mincompwidth=\count331
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/biblatex-apa\apa.dbx
+File: apa.dbx 2023/03/20 v9.17 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count332
+\c@savedafterword=\count333
+\c@annotator=\count334
+\c@savedannotator=\count335
+\c@author=\count336
+\c@savedauthor=\count337
+\c@bookauthor=\count338
+\c@savedbookauthor=\count339
+\c@commentator=\count340
+\c@savedcommentator=\count341
+\c@editor=\count342
+\c@savededitor=\count343
+\c@editora=\count344
+\c@savededitora=\count345
+\c@editorb=\count346
+\c@savededitorb=\count347
+\c@editorc=\count348
+\c@savededitorc=\count349
+\c@foreword=\count350
+\c@savedforeword=\count351
+\c@holder=\count352
+\c@savedholder=\count353
+\c@introduction=\count354
+\c@savedintroduction=\count355
+\c@namea=\count356
+\c@savednamea=\count357
+\c@nameb=\count358
+\c@savednameb=\count359
+\c@namec=\count360
+\c@savednamec=\count361
+\c@translator=\count362
+\c@savedtranslator=\count363
+\c@shortauthor=\count364
+\c@savedshortauthor=\count365
+\c@shorteditor=\count366
+\c@savedshorteditor=\count367
+\c@narrator=\count368
+\c@savednarrator=\count369
+\c@execproducer=\count370
+\c@savedexecproducer=\count371
+\c@execdirector=\count372
+\c@savedexecdirector=\count373
+\c@with=\count374
+\c@savedwith=\count375
+\c@labelname=\count376
+\c@savedlabelname=\count377
+\c@institution=\count378
+\c@savedinstitution=\count379
+\c@lista=\count380
+\c@savedlista=\count381
+\c@listb=\count382
+\c@savedlistb=\count383
+\c@listc=\count384
+\c@savedlistc=\count385
+\c@listd=\count386
+\c@savedlistd=\count387
+\c@liste=\count388
+\c@savedliste=\count389
+\c@listf=\count390
+\c@savedlistf=\count391
+\c@location=\count392
+\c@savedlocation=\count393
+\c@organization=\count394
+\c@savedorganization=\count395
+\c@origlocation=\count396
+\c@savedoriglocation=\count397
+\c@origpublisher=\count398
+\c@savedorigpublisher=\count399
+\c@publisher=\count400
+\c@savedpublisher=\count401
+\c@language=\count402
+\c@savedlanguage=\count403
+\c@origlanguage=\count404
+\c@savedoriglanguage=\count405
+\c@citation=\count406
+\c@savedcitation=\count407
+\c@pageref=\count408
+\c@savedpageref=\count409
+\shorthandwidth=\skip63
+\shortjournalwidth=\skip64
+\shortserieswidth=\skip65
+\shorttitlewidth=\skip66
+\shortauthorwidth=\skip67
+\shorteditorwidth=\skip68
+\locallabelnumberwidth=\skip69
+\locallabelalphawidth=\skip70
+\localshorthandwidth=\skip71
+\localshortjournalwidth=\skip72
+\localshortserieswidth=\skip73
+\localshorttitlewidth=\skip74
+\localshortauthorwidth=\skip75
+\localshorteditorwidth=\skip76
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count410
+\c@textcitetotal=\count411
+\c@textcitemaxnames=\count412
+\c@biburlbigbreakpenalty=\count413
+\c@biburlbreakpenalty=\count414
+\c@biburlnumpenalty=\count415
+\c@biburlucpenalty=\count416
+\c@biburllcpenalty=\count417
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count418
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/biblatex-apa\apa.bbx
+File: apa.bbx 2023/03/20 v9.17 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count419
+\c@bbx:relatedtotal=\count420
+)
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+)
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/biblatex-apa\apa.cbx
+File: apa.cbx 2023/03/20 v9.17 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-05-08 L3 programming layer (loader) 
+ (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count421
+\l__pdf_internal_box=\box54
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2024-05-08 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2024-05-08 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+)) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/changepage\changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count422
+\cp@tempcnt=\count423
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip77
+\enit@outerparindent=\dimen156
+\enit@toks=\toks23
+\enit@inbox=\box55
+\enit@count@id=\count424
+\enitdp@description=\count425
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen157
+\ESO@tempdimb=\dimen158
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+\symAMSa=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 591.
+LaTeX Info: Redefining \not on input line 1043.
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/lipsum\lipsum.sty (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2024-05-08 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count426
+\l__lipsum_a_int=\count427
+\l__lipsum_b_int=\count428
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip78
+\LTright=\skip79
+\LTpre=\skip80
+\LTpost=\skip81
+\LTchunksize=\count429
+\LTcapwidth=\dimen161
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count430
+\LT@rows=\count431
+\c@LT@tables=\count432
+\c@LT@chunks=\count433
+\LT@p@ftn=\toks24
+) (C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen162
+\TX@old@table=\dimen163
+\TX@old@col=\dimen164
+\TX@target=\dimen165
+\TX@delta=\dimen166
+\TX@cols=\count434
+\TX@ftn=\toks25
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen167
+\WF@size=\dimen168
+\c@WF@wrappedlines=\count435
+\WF@box=\box61
+\WF@everypar=\toks26
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count436
+\float@exts=\toks27
+\float@box=\box62
+\@float@everytoks=\toks28
+\@floatcapt=\box63
+) (C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks29
+\verbatim@line=\toks30
+\verbatim@in@stream=\read3
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip82
+\f@nch@O@elh=\skip83
+\f@nch@O@erh=\skip84
+\f@nch@O@olh=\skip85
+\f@nch@O@orh=\skip86
+\f@nch@O@elf=\skip87
+\f@nch@O@erf=\skip88
+\f@nch@O@olf=\skip89
+\f@nch@O@orf=\skip90
+) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box64
+\beforetitleunit=\skip91
+\aftertitleunit=\skip92
+\ttl@plus=\dimen169
+\ttl@minus=\dimen170
+\ttl@toksa=\toks31
+\titlewidth=\dimen171
+\titlewidthlast=\dimen172
+\titlewidthfirst=\dimen173
+) (pustaka/variables.tex) (pustaka/tanda-hubung.tex) (C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count437
+\lst@gtempboxa=\box65
+\lst@token=\toks32
+\lst@length=\count438
+\lst@currlwidth=\dimen174
+\lst@column=\count439
+\lst@pos=\count440
+\lst@lostspace=\dimen175
+\lst@width=\dimen176
+\lst@newlines=\count441
+\lst@lineno=\count442
+\lst@maxwidth=\dimen177
+ (C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+) (C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+\c@lstnumber=\count443
+\lst@skipnumbers=\count444
+\lst@framebox=\box66
+) (C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/05/25 1.10b listings configuration
+))
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
+\@quotelevel=\count445
+\@quotereset=\count446
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 130.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+) (main.aux
+
+LaTeX Warning: Label `fig:roketluarangkasa' multiply defined.
+
+
+LaTeX Warning: Label `fig:roketluarangkasa' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 130.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 130.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 130.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 130.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 130.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 130.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 130.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 130.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=688.5567pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 130.
+(main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count447
+\scratchdimen=\dimen178
+\scratchbox=\box67
+\nofMPsegments=\count448
+\nofMParguments=\count449
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count450
+\MPscratchDim=\dimen179
+\MPnumerator=\count451
+\makeMPintoPDFobject=\count452
+\everyMPtoPDFconversion=\toks34
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
+Package biblatex Info: ... file 'english-apa.lbx' found.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/biblatex-apa\english-apa.lbx
+File: english-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
+Package biblatex Info: ... file 'american-apa.lbx' found.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/biblatex-apa\american-apa.lbx
+File: american-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\american.lbx
+File: american.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+))))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 130.
+Package biblatex Info: Reference segment=0 on input line 130.
+\c@lstlisting=\count453
+ (sampul/sampul-luar.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(156.49014pt, 631.6512pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=631.6512pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=47.22015pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for OT1+txss on input line 27.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\ot1txss.fd
+File: ot1txss.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 27.
+LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <12> not available
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 34.
+ (sampul/konten-id.tex
+LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 1.
+LaTeX Font Info:    Font shape `OT1/txss/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/txss/b/n' tried instead on input line 8.
+LaTeX Font Info:    Font shape `OT1/txss/b/n' will be
+(Font)              scaled to size 16.41594pt on input line 8.
+LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 17.
+)
+
+<sampul/gambar/sampul-luar.png, id=125, 2107.875pt x 2981.1375pt>
+File: sampul/gambar/sampul-luar.png Graphic file (type png)
+<use sampul/gambar/sampul-luar.png>
+Package pdftex.def Info: sampul/gambar/sampul-luar.png  used on input line 41.
+(pdftex.def)             Requested size: 597.5021pt x 845.0387pt.
+[1
+
+
+{C:/Users/Aryaduta Putra Perka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar.png>]) (sampul/sampul-luar-tipis.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(184.9429pt, 603.19844pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=603.19844pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=75.67291pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (sampul/konten-id.tex)
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 \restoregeometry
+                     
+<sampul/gambar/sampul-luar-tipis.png, id=132, 2107.875pt x 2981.1375pt>
+File: sampul/gambar/sampul-luar-tipis.png Graphic file (type png)
+<use sampul/gambar/sampul-luar-tipis.png>
+Package pdftex.def Info: sampul/gambar/sampul-luar-tipis.png  used on input line 38.
+(pdftex.def)             Requested size: 597.5021pt x 845.0387pt.
+ [1
+
+
+ <./sampul/gambar/sampul-luar-tipis.png>])
+
+[2
+
+
+
+] (sampul/sampul-luar-tipis.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(184.9429pt, 603.19844pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=603.19844pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=75.67291pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (sampul/konten-en.tex
+LaTeX Font Info:    Font shape `OT1/txss/bx/it' in size <17.28> not available
+(Font)              Font shape `OT1/txss/b/sl' tried instead on input line 9.
+LaTeX Font Info:    Font shape `OT1/txss/b/sl' will be
+(Font)              scaled to size 16.41594pt on input line 9.
+)
+
+File: sampul/gambar/sampul-luar-tipis.png Graphic file (type png)
+<use sampul/gambar/sampul-luar-tipis.png>
+Package pdftex.def Info: sampul/gambar/sampul-luar-tipis.png  used on input line 38.
+(pdftex.def)             Requested size: 597.5021pt x 845.0387pt.
+[3
+
+])
+
+[4
+
+
+] (lainnya/lembar-pengesahan.tex
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 18.
+ (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\utxmia.fd) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\utxsya.fd) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\utxsyb.fd) (C:\Users\Aryaduta Putra Perka\AppData\Local\Programs\MiKTeX2\tex/latex/txfonts\utxsyc.fd))
+
+[5]
+
+[6
+
+] (lainnya/lembar-pengesahan-en.tex
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 10.
+)
+
+[7]
+
+[8
+
+] (lainnya/pernyataan-keaslian.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 29--168
+
+ []
+
+
+
+[9]
+
+[10
+
+] (lainnya/pernyataan-keaslian-en.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 29--170
+
+ []
+
+
+
+[11]
+
+[12
+
+] (abstrak/abstrak-id.tex)
+Overfull \hbox (8.84393pt too wide) in paragraph at lines 39--177
+[]\OT1/txr/m/n/12 Kata Kunci: Robot \OT1/txr/m/it/12 Ser-vice\OT1/txr/m/n/12 , No-ti-fikasi Uca-pan, \OT1/txr/m/it/12 LLM\OT1/txr/m/n/12 , Sen-sor Mul-ti-modal, In-ter-aksi Manusia-
+ []
+
+
+
+[1]
+
+[2
+
+] (abstrak/abstrak-en.tex)
+
+[3]
+
+[4
+
+] (lainnya/kata-pengantar.tex
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <17.28> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 3.
+)
+
+[5]
+
+[6
+
+] (main.toc
+
+[7
+
+])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+
+[8] (main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+
+
+[9
+
+
+]
+
+[10
+
+] (main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+
+
+[11
+
+]
+
+[12
+
+] (bab/1-pendahuluan.tex
+Chapter 1.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 
+      [1
+
+]
+Overfull \hbox (4.0919pt too wide) in paragraph at lines 25--26
+\OT1/txr/m/n/12 sensor-sensor dalam pengem-ban-gan re-spon robot \OT1/txr/m/it/12 ser-vice \OT1/txr/m/n/12 un-tuk meningkatkan ke-mam-puan adap-
+ []
+
+)
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.210 \cleardoublepage
+                       [2] (bab/2-tinjauan-pustaka.tex
+Chapter 2.
+
+Overfull \hbox (1.89592pt too wide) in paragraph at lines 13--14
+\OT1/txr/m/n/12 meng-hadirkan pelu-ang un-tuk meningkatkan pro-duk-tiv-i-tas dan efisiensi. Se-men-tara itu, di bidang
+ []
+
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <14.4> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 15.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 
+      [3
+
+
+]
+<gambar/dobot.jpeg, id=369, 225.84375pt x 225.84375pt>
+File: gambar/dobot.jpeg Graphic file (type jpg)
+<use gambar/dobot.jpeg>
+Package pdftex.def Info: gambar/dobot.jpeg  used on input line 28.
+(pdftex.def)             Requested size: 180.67523pt x 180.67523pt.
+<gambar/kinem.jpg, id=371, 383.63326pt x 190.311pt>
+File: gambar/kinem.jpg Graphic file (type jpg)
+<use gambar/kinem.jpg>
+Package pdftex.def Info: gambar/kinem.jpg  used on input line 41.
+(pdftex.def)             Requested size: 345.26672pt x 171.27829pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.47 
+      [4
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.47 
+      <./gambar/dobot.jpeg>]
+<gambar/transformer.jpg, id=379, 251.13824pt x 352.9185pt>
+File: gambar/transformer.jpg Graphic file (type jpg)
+<use gambar/transformer.jpg>
+Package pdftex.def Info: gambar/transformer.jpg  used on input line 79.
+(pdftex.def)             Requested size: 200.91087pt x 282.33517pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.84 
+      [5
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.84 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{table.2.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.84 
+      <./gambar/kinem.jpg>]
+<gambar/gemma.jpg, id=388, 493.845pt x 329.43076pt>
+File: gambar/gemma.jpg Graphic file (type jpg)
+<use gambar/gemma.jpg>
+Package pdftex.def Info: gambar/gemma.jpg  used on input line 94.
+(pdftex.def)             Requested size: 246.92189pt x 164.71497pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.102 
+       [6
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.102 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.102 
+       <./gambar/transformer.jpg> <./gambar/gemma.jpg>]
+<gambar/param_gemma.jpg, id=394, 211.38976pt x 74.07675pt>
+File: gambar/param_gemma.jpg Graphic file (type jpg)
+<use gambar/param_gemma.jpg>
+Package pdftex.def Info: gambar/param_gemma.jpg  used on input line 107.
+(pdftex.def)             Requested size: 211.38922pt x 74.07657pt.
+<gambar/gemma-bench.jpg, id=396, 201.75375pt x 173.448pt>
+File: gambar/gemma-bench.jpg Graphic file (type jpg)
+<use gambar/gemma-bench.jpg>
+Package pdftex.def Info: gambar/gemma-bench.jpg  used on input line 117.
+(pdftex.def)             Requested size: 201.75325pt x 173.44757pt.
+<gambar/lora.jpg, id=398, 246.9225pt x 212.59425pt>
+File: gambar/lora.jpg Graphic file (type jpg)
+<use gambar/lora.jpg>
+Package pdftex.def Info: gambar/lora.jpg  used on input line 133.
+(pdftex.def)             Requested size: 197.53824pt x 170.07562pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.138 
+       [7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.138 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.138 
+       <./gambar/param_gemma.jpg> <./gambar/gemma-bench.jpg>]
+<gambar/konsep_mul.jpg, id=404, 317.38576pt x 178.266pt>
+File: gambar/konsep_mul.jpg Graphic file (type jpg)
+<use gambar/konsep_mul.jpg>
+Package pdftex.def Info: gambar/konsep_mul.jpg  used on input line 152.
+(pdftex.def)             Requested size: 253.90895pt x 142.61298pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.160 
+       [8
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.160 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.160 
+       <./gambar/lora.jpg> <./gambar/konsep_mul.jpg>]
+<gambar/opencv.png, id=410, 803.0pt x 989.6975pt>
+File: gambar/opencv.png Graphic file (type png)
+<use gambar/opencv.png>
+Package pdftex.def Info: gambar/opencv.png  used on input line 168.
+(pdftex.def)             Requested size: 80.3047pt x 98.97554pt.
+)
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \cleardoublepage
+                       [9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.214 \cleardoublepage
+                       <./gambar/opencv.png>]
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214 \cleardoublepage
+                       [10
+
+] (bab/3-desain-implementasi.tex
+Chapter 3.
+<gambar/pend.jpg, id=420, 440.847pt x 251.7405pt>
+File: gambar/pend.jpg Graphic file (type jpg)
+<use gambar/pend.jpg>
+Package pdftex.def Info: gambar/pend.jpg  used on input line 10.
+(pdftex.def)             Requested size: 352.67807pt x 201.39265pt.
+
+Overfull \hbox (9.13188pt too wide) in paragraph at lines 15--16
+[]\OT1/txr/m/n/12 Metode yang di-gu-nakan un-tuk menye-le-saikan tu-gas akhir ini da-pat di-u-raikan se-ba-gai berikut.
+ []
+
+
+Overfull \hbox (12.77989pt too wide) in paragraph at lines 21--22
+[]\OT1/txr/m/n/12 Metode yang dit-er-ap-kan un-tuk menye-le-saikan tu-gas akhir ini telah di-ran-cang den-gan langkah-
+ []
+
+
+Overfull \hbox (11.78392pt too wide) in paragraph at lines 21--22
+\OT1/txr/m/n/12 langkah yang ter-per-inci un-tuk memas-tikan ke-ber-hasi-lan proyek. Tahap per-tama adalah pengumpu-
+ []
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.22 
+      [11
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.22 
+      <./gambar/pend.jpg>]
+<gambar/metode.jpg, id=424, 534.798pt x 305.943pt>
+File: gambar/metode.jpg Graphic file (type jpg)
+<use gambar/metode.jpg>
+Package pdftex.def Info: gambar/metode.jpg  used on input line 26.
+(pdftex.def)             Requested size: 374.35605pt x 214.15862pt.
+<gambar/tip_dat.jpg, id=425, 1962.33125pt x 1129.21875pt>
+File: gambar/tip_dat.jpg Graphic file (type jpg)
+<use gambar/tip_dat.jpg>
+Package pdftex.def Info: gambar/tip_dat.jpg  used on input line 39.
+(pdftex.def)             Requested size: 333.5919pt x 191.96465pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 
+      [12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.43 
+      <./gambar/metode.jpg>]
+<gambar/format-data.jpg, id=430, 485.4135pt x 274.02374pt>
+File: gambar/format-data.jpg Graphic file (type jpg)
+<use gambar/format-data.jpg>
+Package pdftex.def Info: gambar/format-data.jpg  used on input line 46.
+(pdftex.def)             Requested size: 339.78712pt x 191.8153pt.
+
+
+[13
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.55 \section{\textit{Fine Tuning}}
+                                   
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.55 \section{\textit{Fine Tuning}}
+                                    <./gambar/tip_dat.jpg> <./gambar/format-data.jpg>]
+<gambar/lora_tun.jpg, id=435, 486.01575pt x 275.22826pt>
+File: gambar/lora_tun.jpg Graphic file (type jpg)
+<use gambar/lora_tun.jpg>
+Package pdftex.def Info: gambar/lora_tun.jpg  used on input line 59.
+(pdftex.def)             Requested size: 340.2087pt x 192.65846pt.
+<gambar/exact.jpg, id=436, 483.0045pt x 278.2395pt>
+File: gambar/exact.jpg Graphic file (type jpg)
+<use gambar/exact.jpg>
+Package pdftex.def Info: gambar/exact.jpg  used on input line 71.
+(pdftex.def)             Requested size: 338.10083pt x 194.76631pt.
+
+
+[14
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.77 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.77 
+      <./gambar/lora_tun.jpg> <./gambar/exact.jpg>])
+
+[15]
+
+[16
+
+] (bab/4-pengujian-analisis.tex
+Chapter 4.
+<gambar/uji_res.jpg, id=449, 662.475pt x 376.40625pt>
+File: gambar/uji_res.jpg Graphic file (type jpg)
+<use gambar/uji_res.jpg>
+Package pdftex.def Info: gambar/uji_res.jpg  used on input line 10.
+(pdftex.def)             Requested size: 298.111pt x 169.38124pt.
+<gambar/js1.jpg, id=450, 635.976pt x 112.0185pt>
+File: gambar/js1.jpg Graphic file (type jpg)
+<use gambar/js1.jpg>
+Package pdftex.def Info: gambar/js1.jpg  used on input line 17.
+(pdftex.def)             Requested size: 317.98721pt x 56.0091pt.
+<gambar/ujicoc.jpg, id=451, 590.80725pt x 339.06676pt>
+File: gambar/ujicoc.jpg Graphic file (type jpg)
+<use gambar/ujicoc.jpg>
+Package pdftex.def Info: gambar/ujicoc.jpg  used on input line 25.
+(pdftex.def)             Requested size: 265.8608pt x 152.57861pt.
+<gambar/coc.jpg, id=452, 669.09975pt x 124.66576pt>
+File: gambar/coc.jpg Graphic file (type jpg)
+<use gambar/coc.jpg>
+Package pdftex.def Info: gambar/coc.jpg  used on input line 32.
+(pdftex.def)             Requested size: 334.54906pt x 62.33272pt.
+
+
+[17
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.36 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.36 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.36 
+      <./gambar/uji_res.jpg> <./gambar/js1.jpg> <./gambar/ujicoc.jpg>]
+<gambar/ujicoc2.jpg, id=457, 632.3625pt x 364.9635pt>
+File: gambar/ujicoc2.jpg Graphic file (type jpg)
+<use gambar/ujicoc2.jpg>
+Package pdftex.def Info: gambar/ujicoc2.jpg  used on input line 41.
+(pdftex.def)             Requested size: 379.42043pt x 218.97978pt.
+<gambar/dc1.jpg, id=458, 741.972pt x 87.32625pt>
+File: gambar/dc1.jpg Graphic file (type jpg)
+<use gambar/dc1.jpg>
+Package pdftex.def Info: gambar/dc1.jpg  used on input line 48.
+(pdftex.def)             Requested size: 370.98509pt x 43.66301pt.
+<gambar/ujipos.jpg, id=459, 537.207pt x 308.352pt>
+File: gambar/ujipos.jpg Graphic file (type jpg)
+<use gambar/ujipos.jpg>
+Package pdftex.def Info: gambar/ujipos.jpg  used on input line 55.
+(pdftex.def)             Requested size: 322.32669pt x 185.01262pt.
+
+
+[18
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.62 \section{Metrik Pengujian}
+                               
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.62 \section{Metrik Pengujian}
+                               
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.62 \section{Metrik Pengujian}
+                               
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.62 \section{Metrik Pengujian}
+                                <./gambar/coc.jpg> <./gambar/ujicoc2.jpg> <./gambar/dc1.jpg> <./gambar/ujipos.jpg>]
+<gambar/metrik.jpg, id=465, 567.3195pt x 324.0105pt>
+File: gambar/metrik.jpg Graphic file (type jpg)
+<use gambar/metrik.jpg>
+Package pdftex.def Info: gambar/metrik.jpg  used on input line 69.
+(pdftex.def)             Requested size: 397.12094pt x 226.8058pt.
+
+
+[19
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.81 
+      <./gambar/metrik.jpg>])
+
+[20] (bab/5-penutup.tex)
+Overfull \hbox (4.11298pt too wide) in paragraph at lines 236--236
+\OT1/txr/m/n/12 J., Morales Menen-dez, R., Ram[]^^Prez-Mendoza, R. A., Ram[]^^Prez-Moreno, M. A., & Lozoya-
+ []
+
+
+
+[21
+
+
+
+]
+
+[22] (lainnya/biografi-penulis.tex) (main.aux)
+ ***********
+LaTeX2e <2024-06-01>
+L3 programming layer <2024-05-08>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: BFB73F1F5C45C6A08455C1FCAF231E15;4241.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 22701 strings out of 473938
+ 397916 string characters out of 5737160
+ 1943893 words of memory out of 5000000
+ 45036 multiletter control sequences out of 15000+600000
+ 603325 words of font info for 126 fonts, out of 8000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 75i,12n,81p,1489b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Aryaduta Putra Perka/AppData/Local/Programs/MiKTeX2/fonts/type1/public/txfonts/rtxi.pfb><C:/Users/Aryaduta Putra Perka/AppData/Local/Programs/MiKTeX2/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/Aryaduta Putra Perka/AppData/Local/Programs/MiKTeX2/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/Aryaduta Putra Perka/AppData/Local/Programs/MiKTeX2/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (47 pages, 1649592 bytes).
+PDF statistics:
+ 569 PDF objects out of 1000 (max. 8388607)
+ 110 named destinations out of 1000 (max. 500000)
+ 374 words of extra memory for PDF output out of 10000 (max. 10000000)
+

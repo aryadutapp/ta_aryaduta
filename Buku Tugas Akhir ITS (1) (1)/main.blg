@@ -1,0 +1,23 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[210] biber-MSWIN64:340> INFO - === 
+[280] Biber.pm:420> INFO - Reading 'main.bcf'
+[558] Biber.pm:994> INFO - Found 18 citekeys in bib section 0
+[598] Biber.pm:4463> INFO - Processing section 0
+[629] Biber.pm:4654> INFO - Looking for bibtex file 'pustaka/pustaka.bib' for section 0
+[718] bibtex.pm:1713> INFO - LaTeX decoding ...
+[794] bibtex.pm:1519> INFO - Found BibTeX data source 'pustaka/pustaka.bib'
+[1137] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1138] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1148] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1148] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1242] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1242] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1243] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1243] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1294] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1409] bbl.pm:779> INFO - Output to main.bbl
+[1410] Biber.pm:131> WARN - Duplicate entry key: 'inproceedings' in file 'pustaka/pustaka.bib', skipping ...
+[1410] Biber.pm:131> WARN - legacy month field 'Jun 5' in entry 'jia2020multimodal' is not an integer - this will probably not sort properly.
+[1410] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\ARYADU~1\AppData\Local\Temp\biber_tmp_Yl5p\edf1f315de8056cfaef35fb8874dd844_12220.utf8, line 7, warning: 357 characters of junk seen at toplevel
+[1410] Biber.pm:133> INFO - WARNINGS: 3

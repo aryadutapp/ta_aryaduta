@@ -1,0 +1,44 @@
+\chapter{PENDAHULUAN}
+\label{chap:pendahuluan}
+
+% Ubah bagian-bagian berikut dengan isi dari pendahuluan
+
+\section{Latar Belakang}
+\label{sec:latarbelakang}
+
+Robot adalah sebuah mesin yang dapat diprogram untuk melakukan berbagai gerakan dan tugas secara otomatis \parencite{singh2022robots}. Perkembangannya didorong oleh kemajuan teknologi di bidang elektronika, mekanika, dan kecerdasan buatan. Teknologi ini memungkinkan robot untuk memiliki kemampuan untuk melakukan tugas yang lebih kompleks. Saat ini, robot telah digunakan di berbagai bidang, mulai dari industri manufaktur, kesehatan, hingga hiburan.
+
+Robot \textit{service} adalah jenis robot yang dirancang dan diprogram untuk menjalankan
+berbagai tugas yang bermanfaat bagi manusia \parencite{gonzalez2021service}. Kemampuannya untuk diprogram dan menjalankan tugas secara mandiri menjadikannya ideal untuk membantu manusia dalam berbagai aspek kehidupan. Salah satu robot \textit{service} yang cukup terkenal adalah robot penyedot debu. Robot ini sangat populer di ranah konsumen rumah tangga karena kemampuannya membersihkan lantai secara otomatis. Contohnya adalah robot Roomba yang diproduksi oleh perusahaan iRobot \parencite{6907681}. Robot ini menggunakan sensor dan algoritma navigasi membersihkan ruangan secara efisien.
+
+Interaksi manusia-robot adalah disiplin ilmu yang bertujuan untuk memahami, merancang, dan menilai interaksi sistem robotik untuk digunakan bersama dengan manusia \parencite{mohebbi2020human}. Meningkatnya penggunaan robot pada skala konsumen umum mendorong kebutuhan untuk merancang robot yang dapat berkolaborasi secara efektif dengan manusia.  Ada berbagai metode untuk berinteraksi dengan robot, salah satunya adalah melalui sentuhan fisik, seperti menggunakan tombol atau layar sentuh. Penggunaan dengan tombol sentuh memerlukan pengetahuan dasar pengguna dalam pengoperasian robot. Jika pengguna tidak terbiasa dengan kontrol pengoperasian robot, dibutuhkan pelatihan khusus untuk dapat berinteraksi dengan robot \emph{input} \parencite{bragajulio}. Metode lain melibatkan sensor untuk mengumpulkan informasi lingkungan, seperti sensor gerakan atau kamera, yang memungkinkan robot menyesuaikan respons sesuai kebutuhan.
+
+Seiring dengan perkembangan teknologi kecerdasan buatan, interaksi dengan robot semakin beragam dengan perkembangan pemrosesan bahasa alami (\emph{Natural Language Processing}). Model bahasa besar (\emph{Large Language Model}) menjadi salah satu tren terpopuler di bidang kecerdasan buatan (\emph{Artificial Intelligence}) dalam beberapa tahun terakhir. Model bahasa besar adalah model yang mampu memproses dan menghasilkan teks \parencite{naveed2024comprehensive}. Model ini mampu menghasilkan teks, menerjemahkan bahasa, menulis berbagai jenis teks, dan menjawab pertanyaan dengan cara yang informatif. Sebagai contoh, salah satu model bahasa besar yang populer adalah GPT \emph{(Generative Pre-trained Transformer)}. Dengan perkembangan ini, robot dapat memahami perintah bahasa alami dan merespon dengan cara yang menyerupai interaksi manusia. 
+
+Meskipun demikian, dalam penerapan model bahasa untuk interaksi robot-manusia, ada beberapa hal yang harus dipertimbangkan. Model bahasa yang telah dilatih secara umum sering kali tidak dapat memahami dan merespon sesuai dengan informasi kondisi, kemampuan, dan lingkungan nyata robot. Pemahaman terhadap informasi ini sangat penting mengingat robot bergerak di lingkungan nyata yang memiliki berbagai batasan seperti batasan lokasi atau aksi yang dapat dilakukan. Salah satu hal yang dapat dilakukan untuk meningkatkan performa model bahasa adalah dengan melakukan (\emph{fine tuning}) dimana di mana model yang sudah ada dilatih kembali dengan menggunakan data khusus yang relevan dengan konteks robot. Proses (\emph{fine tuning}) telah terbukti dapat meningkatkan performa model bahasa terhadap kondisi yang sebelumnya tidak terlihat \parencite{chung2022scaling}. Informasi lingkungan nyata robot dapat diambil dengan integrasi sensor multimodal, seperti kamera, juga menjadi bagian penting dalam meningkatkan pemahaman robot terhadap kondisi lingkungan nyata.
+
+Dalam upaya untuk meningkatkan pengalaman interaksi robot-manusia, penulis menggunakan model bahasa besar berbasis sensor multimodal untuk menghasilkan sistem respon dari robot service yang lebih alami dan sesuai dengan konteks lingkungan robot. Melalui penelitian ini, diharapkan dapat memberikan kontribusi signifikan pada kemajuan bidang interaksi robot-manusia.
+
+\section{Permasalahan}
+\label{sec:permasalahan}
+
+Bagaimana menerapkan integrasi model bahasa besar dan konsep multimodalitas melalui sensor-sensor dalam pengembangan respon robot \emph{service} untuk meningkatkan kemampuan adaptif, respons kontekstual, dan menciptakan pengalaman interaksi yang lebih personal dan efektif antara robot dan manusia?
+
+\section{Tujuan}
+\label{sec:Tujuan}
+Tujuan penelitian ini adalah untuk mengembangkan sistem interaksi robot-manusia dengan model bahasa besar (LLM) dan sensor multimodal pada respon robot service dengan fokus pada peningkatan kemampuan adaptif, respons kontekstual, serta penciptaan pengalaman interaksi yang lebih alami dan efektif.
+
+\section{Batasan Masalah}
+\label{sec:batasanmasalah}
+
+Adapun beberapa batasan dalam pembahasan tugas akhir ini yaitu, sebagai berikut:
+
+\begin{enumerate}[itemsep=0pt]
+    \item Sensor multimodal yang digunakan adalah kamera.
+    \item Robot yang digunakan adalah robot lengan Dobot Magician. 
+\end{enumerate}
+
+\section{Manfaat}
+\label{sec:sistematikapenulisan}
+
+Penelitian ini diharapkan memberikan manfaat yang signifikan pada pengembangan teknologi Robot Service dan interaksi robot-manusia. Integrasi Model Bahasa Besar (LLM) dan konsep multimodalitas melalui sensor-sensor bertujuan untuk meningkatkan kemampuan adaptif, respons kontekstual, dan menciptakan pengalaman interaksi yang lebih personal antara robot dan manusia. Dengan peningkatan kemampuan komunikasi robot service, diharapkan memberikan respon yang lebih efisien, efektif, dan sesuai dengan kebutuhan pengguna. 

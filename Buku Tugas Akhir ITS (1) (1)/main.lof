@@ -1,0 +1,27 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Dobot Magician \blx@tocontentsinit {0}\parencite {dobotus}.}}{4}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Kinematika \blx@tocontentsinit {0}\parencite {inproceedings}.}}{5}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Arsitektur Transformer \blx@tocontentsinit {0}\parencite {vaswani2023attention}.}}{6}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Logo Gemma \blx@tocontentsinit {0}\parencite {gemma}.}}{6}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Ukuran Parameter Gemma \blx@tocontentsinit {0}\parencite {gemma}.}}{7}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Benchmark Gemma 7B dan Mistral 7B \blx@tocontentsinit {0}\parencite {gemma}.}}{7}{figure.2.6}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Mekanisme kerja LoRA \blx@tocontentsinit {0}\parencite {gemma}.}}{8}{figure.2.7}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Konsep Multimodal \blx@tocontentsinit {0}\parencite {dobotus}.}}{8}{figure.2.8}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Logo OpenCV \blx@tocontentsinit {0}\parencite {opencv_about}.}}{9}{figure.2.9}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Alur sistem}}{11}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Metode}}{12}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Kriteria Dataset}}{13}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Format Dataset}}{13}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Tuning}}{14}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Metrik \textit {Exact Match}}}{14}{figure.3.6}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Uji Reasoning}}{17}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Hasil JSON Reasoning}}{17}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Uji Chain of Command}}{17}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Hasil JSON Chain of Command}}{18}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Uji Direct Command}}{18}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Hasil JSON Direct Command}}{18}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Uji Impossible Task}}{18}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Tuning}}{19}{figure.4.8}%
